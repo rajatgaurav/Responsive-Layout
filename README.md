@@ -15,7 +15,7 @@ This website contains 3 pages- Home page, About page & service page.
 ​
 ## Deployment
 ​
-To deploy this project run 
+To deploy this project run https://shiny-liger-a66b6c.netlify.app
 ​
 ​
 ​
