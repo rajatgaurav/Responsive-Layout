@@ -1,4 +1,4 @@
-# Acme Web Design
+# Rajat Gaurav Web Design
 It's a responsive website.
 This website contains 3 pages- Home page, About page & service page.
 ​
