@@ -11,7 +11,7 @@ This website contains 3 pages- Home page, About page & service page.
 ## Screenshots
 ​
 ​
-<img src="images/Ss1.png" alt="Screenshot">
+<img src="images/ss.png" alt="Screenshot">
 ​
 ## Deployment
 ​
