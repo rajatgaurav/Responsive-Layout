@@ -15,7 +15,7 @@ This website contains 3 pages- Home page, About page & service page.
 ​
 ## Deployment
 ​
-To deploy this project run https://shivansh63.github.io/HTML---CSS-Mini-Project---HTML---CSS-Mini-Project---sqeh8l88iwwo/index.html
+To deploy this project run 
 ​
 ​
 ​
